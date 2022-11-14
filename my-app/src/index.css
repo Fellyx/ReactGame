@@ -40,4 +40,8 @@ ol, ul {
   background: #ddd;
 }
 
+.game {
+  display: flex;
+  flex-direction: row;
+}
 
