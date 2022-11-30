@@ -61,7 +61,7 @@ class Game extends React.Component {
 
 // ======================================
 
-const root = ReactDom.creatRoot(document.getElementById("root"));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<Game />);
 
 
